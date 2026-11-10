@@ -2,5 +2,7 @@ ruff.toml
 matplotlibrc
 slides/*.tex
 
+__pycache__/
+
 .venv
-solutions
+
